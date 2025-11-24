@@ -6,11 +6,12 @@
 
 html, body {
     height: 100%;  
+
 }
 
 body {
      font-family: system-ui, Arial, sans-serif;
-    background-color: white;
+    background-color: blue;
     color: #222;
     line-height: 1.6;
     display: grid;
